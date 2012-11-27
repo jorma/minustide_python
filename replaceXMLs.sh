@@ -1,6 +1,7 @@
 #! /bin/bash
 #
 #
+#
 
 rm /home/yosemit1/minustide_scripts/*.xml
 
