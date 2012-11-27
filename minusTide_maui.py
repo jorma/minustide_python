@@ -170,9 +170,9 @@ def tideCheck(xmlFile,station):
 				print tideHeight + " " + tideDay + ", " + tideDate + " at " + tideTime
 				if formattedTideDate == tomorrow:
 					
-					emailFolks = {'Jorma':'aloha@jorma.com','Jeff Fahey':'faheyjeffrey@gmail.com','Jim Dudla':'jdudla@iuetech.com','Joe Breman':'jbreman@iuetech.com','Meghan Gould':'mauka@meghangould.com','Bryan Berkowitz':'bryan.berkowitz@gmail.com','Mitch Sanders':'kukuyampira@hotmail.com'};
+					#emailFolks = {'Jorma':'aloha@jorma.com','Jeff Fahey':'faheyjeffrey@gmail.com','Jim Dudla':'jdudla@iuetech.com','Joe Breman':'jbreman@iuetech.com','Meghan Gould':'mauka@meghangould.com','Bryan Berkowitz':'bryan.berkowitz@gmail.com','Mitch Sanders':'kukuyampira@hotmail.com'};
 					#emailFolks = {'jorma': 'aloha@jorma.com','jorma rodieck': 'jorma@iuetech.com','Gmail Jorma': 'jormadotcom@gmail.com'};
-					#emailFolks = {'Jorma': 'aloha@jorma.com'};
+					emailFolks = {'Jorma': 'aloha@jorma.com'};
 
 					# loop through each subscriber
 					for key, value in emailFolks.items():

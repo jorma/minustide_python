@@ -16,15 +16,23 @@ import sys, string, datetime
 import os
 from xml.etree import ElementTree as ET
 
+#Grab quotes file as an array
 f = open('quotes.txt')
 quotes = f.readlines()
 f.close()
 
-#quotes = []
+tideHeightStringArray = []
+lowestTideHeight = 0.0
 
 def main():
 	
 	stationDict = {'Bolinas':'9414958'};
+	
+	
+	#create a print option for testing
+	#humanTideHeightLow = str(min(tideHeightFloatArray))
+	#print "The lowest tide of 2012 is a " + humanTideHeightLow
+	
 	
 	for key, value in stationDict.items():
 	
@@ -33,8 +41,18 @@ def main():
 		
 		#xmlFile = '/home/yosemit1/minustide_scripts/' + stationName + '.xml'
 		xmlFile = '/Users/jorma/Code/minustide_python/' + stationName + '.xml'
+		
 		# --- run main check
 		tideCheck(xmlFile,stationName)
+		
+	
+	
+	# testing finding the lowest tide
+	#print tideHeightStringArray
+	print nowMonth
+	print "============ End Main ================="
+	# turn list from strings into floats
+	tideHeightFloatArray = [float(i) for i in tideHeightStringArray]
 	
 
 # function to download xml file if it does not exist
@@ -51,7 +69,7 @@ def tideCheck(xmlFile,station):
 	# --- get tomorrow's date
 	tomorrowDate = datetime.date.today() + datetime.timedelta(days=1)
 	nowYear = tomorrowDate.year
-	nowMonth = tomorrowDate.month
+	global nowMonth = tomorrowDate.month
 	nowDay = tomorrowDate.day			
 	tomorrow = str(nowYear) + "/" + str(nowMonth) + "/" + str(nowDay)
 	
@@ -65,6 +83,8 @@ def tideCheck(xmlFile,station):
 	print "=== "	
 	
 	for subelement in root:
+
+			lowestTideHeight = 1.0
 			tideHeight = subelement.find("predictions_in_ft").text
 			tideDate = subelement.find("date").text # ex. 2012/01/20
 			tideDay = subelement.find("day").text
@@ -74,7 +94,25 @@ def tideCheck(xmlFile,station):
 			year = str(tideDateArray[0])
 			day = str(tideDateArray[2])
 			month = str(tideDateArray[1])
-
+			
+			# testing... creating array of 2012 tide heights
+			tideHeightStringArray.append(tideHeight)			
+			
+			tideHeightFloat = float(tideHeight)
+			
+			if tideHeightFloat < lowestTideHeight:
+				lowestTideHeight = tideHeightFloat
+				print "The lowest tide is now " + str(lowestTideHeight)
+			else:
+				pass
+				
+			
+			# testing... 
+			#if float(tideHeight) < lowestTideHeight
+			#	print "Scooby Doobie Do"
+			#else:
+			#	pass
+			
 			
 			# ------ Convert tideDay to one digit if it has a zero in front -----
 			if day == "01":
@@ -151,13 +189,14 @@ def tideCheck(xmlFile,station):
 			#print "Compare tideDate vs tomorrow: " + formattedTideDate + " " + tomorrow
 			if (float(tideHeight) < 0) & (5 < tideHour < 19):
 				print tideHeight + " " + tideDay + ", " + tideDate + " at " + tideTime
+				
+				
 				if formattedTideDate == tomorrow:
 					
 					emailFolks = {'Jorma': 'aloha@jorma.com'};
 
 					# loop through each subscriber
 					for key, value in emailFolks.items():
-						
 						print "********Send Email*********"
 						#msg = MIMEText('Aloha -\n\n'  + 'There will be a ' + tideHeight + 'ft minus tide on ' + human_tideDate + " at " + tideTime + " in " + station +  "\n\n -Jorma" + "\n\n----\n\n" + random.choice(quotes)) 
 						#msg['To'] = email.utils.formataddr((key, value))
@@ -169,8 +208,10 @@ def tideCheck(xmlFile,station):
 						#conn.sendmail(msg['From'], msg['To'], msg.as_string())
 						#conn.quit()
 					return
+					
 
 	print " "
+	
 	return
 
 if __name__ == '__main__':

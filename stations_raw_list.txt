@@ -1,0 +1,494 @@
+
+<a href="data_menu.shtml?stn=1611400 Nawiliwili, HI&type=Tide Data">1611400</a> <a href="data_menu.shtml?stn=1611400 Nawiliwili, HI&type=Tide Data">Nawiliwili, HI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=1612340 Honolulu, HI&type=Tide Data">1612340</a> <a href="data_menu.shtml?stn=1612340 Honolulu, HI&type=Tide Data">Honolulu, HI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=1612480 Mokuoloe, HI&type=Tide Data">1612480</a> <a href="data_menu.shtml?stn=1612480 Mokuoloe, HI&type=Tide Data">Mokuoloe, HI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=1615680 Kahului, Kahului Harbor, HI&type=Tide Data">1615680</a> <a href="data_menu.shtml?stn=1615680 Kahului, Kahului Harbor, HI&type=Tide Data">Kahului, Kahului Harbor, HI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=1617433 Kawaihae, HI&type=Tide Data">1617433</a> <a href="data_menu.shtml?stn=1617433 Kawaihae, HI&type=Tide Data">Kawaihae, HI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=1617760 Hilo, Hilo Bay, Kuhio Bay, HI&type=Tide Data">1617760</a> <a href="data_menu.shtml?stn=1617760 Hilo, Hilo Bay, Kuhio Bay, HI&type=Tide Data">Hilo, Hilo Bay, Kuhio Bay, HI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=1619910 Sand Island, Midway Islands, USA&type=Tide Data">1619910</a> <a href="data_menu.shtml?stn=1619910 Sand Island, Midway Islands, USA&type=Tide Data">Sand Island, Midway Islands, USA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=1630000 Apra Harbor, Guam, MARIANAS ISLANDS&type=Tide Data">1630000</a> <a href="data_menu.shtml?stn=1630000 Apra Harbor, Guam, MARIANAS ISLANDS&type=Tide Data">Apra Harbor, Guam, MARIANAS ISLANDS</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=1631428 Pago Bay, Guam, USA&type=Tide Data">1631428</a> <a href="data_menu.shtml?stn=1631428 Pago Bay, Guam, USA&type=Tide Data">Pago Bay, Guam, USA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=1770000 Pago Pago, American Samoa, AMERICAN SAMOA&type=Tide Data">1770000</a> <a href="data_menu.shtml?stn=1770000 Pago Pago, American Samoa, AMERICAN SAMOA&type=Tide Data">Pago Pago, American Samoa, AMERICAN SAMOA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=1820000 Kwajalein, Marshall Islands, U.S.A&type=Tide Data">1820000</a> <a href="data_menu.shtml?stn=1820000 Kwajalein, Marshall Islands, U.S.A&type=Tide Data">Kwajalein, Marshall Islands, U.S.A</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=1890000 Wake Island, Pacific Ocean, Possession of the U.S.&type=Tide Data">1890000</a> <a href="data_menu.shtml?stn=1890000 Wake Island, Pacific Ocean, Possession of the U.S.&type=Tide Data">Wake Island, Pacific Ocean, Possession of the U.S.</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=2695540 Bermuda Esso Pier, BERMUDA&type=Tide Data">2695540</a> <a href="data_menu.shtml?stn=2695540 Bermuda Esso Pier, BERMUDA&type=Tide Data">Bermuda Esso Pier, BERMUDA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8410140 Eastport, ME&type=Tide Data">8410140</a> <a href="data_menu.shtml?stn=8410140 Eastport, ME&type=Tide Data">Eastport, ME</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8411060 Cutler Farris Wharf, ME&type=Tide Data">8411060</a> <a href="data_menu.shtml?stn=8411060 Cutler Farris Wharf, ME&type=Tide Data">Cutler Farris Wharf, ME</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8413320 Bar Harbor, ME&type=Tide Data">8413320</a> <a href="data_menu.shtml?stn=8413320 Bar Harbor, ME&type=Tide Data">Bar Harbor, ME</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8418150 Portland, ME&type=Tide Data">8418150</a> <a href="data_menu.shtml?stn=8418150 Portland, ME&type=Tide Data">Portland, ME</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8419317 Wells, ME&type=Tide Data">8419317</a> <a href="data_menu.shtml?stn=8419317 Wells, ME&type=Tide Data">Wells, ME</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8423898 Fort Point, NH&type=Tide Data">8423898</a> <a href="data_menu.shtml?stn=8423898 Fort Point, NH&type=Tide Data">Fort Point, NH</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8443970 Boston, MA&type=Tide Data">8443970</a> <a href="data_menu.shtml?stn=8443970 Boston, MA&type=Tide Data">Boston, MA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8447386 Fall River, MA&type=Tide Data">8447386</a> <a href="data_menu.shtml?stn=8447386 Fall River, MA&type=Tide Data">Fall River, MA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8447435 Chatham, MA&type=Tide Data">8447435</a> <a href="data_menu.shtml?stn=8447435 Chatham, MA&type=Tide Data">Chatham, MA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8447930 Woods Hole, MA&type=Tide Data">8447930</a> <a href="data_menu.shtml?stn=8447930 Woods Hole, MA&type=Tide Data">Woods Hole, MA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8448725 Menemsha Harbor, MA, MA&type=Tide Data">8448725</a> <a href="data_menu.shtml?stn=8448725 Menemsha Harbor, MA, MA&type=Tide Data">Menemsha Harbor, MA, MA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8449130 Nantucket Island, MA&type=Tide Data">8449130</a> <a href="data_menu.shtml?stn=8449130 Nantucket Island, MA&type=Tide Data">Nantucket Island, MA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8452660 Newport, RI&type=Tide Data">8452660</a> <a href="data_menu.shtml?stn=8452660 Newport, RI&type=Tide Data">Newport, RI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8452944 Conimicut Light, RI&type=Tide Data">8452944</a> <a href="data_menu.shtml?stn=8452944 Conimicut Light, RI&type=Tide Data">Conimicut Light, RI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8454000 Providence, RI&type=Tide Data">8454000</a> <a href="data_menu.shtml?stn=8454000 Providence, RI&type=Tide Data">Providence, RI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8454049 Quonset Point, RI&type=Tide Data">8454049</a> <a href="data_menu.shtml?stn=8454049 Quonset Point, RI&type=Tide Data">Quonset Point, RI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8461490 New London, CT&type=Tide Data">8461490</a> <a href="data_menu.shtml?stn=8461490 New London, CT&type=Tide Data">New London, CT</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8465705 New Haven, CT&type=Tide Data">8465705</a> <a href="data_menu.shtml?stn=8465705 New Haven, CT&type=Tide Data">New Haven, CT</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8467150 Bridgeport, CT&type=Tide Data">8467150</a> <a href="data_menu.shtml?stn=8467150 Bridgeport, CT&type=Tide Data">Bridgeport, CT</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8510560 Montauk, NY&type=Tide Data">8510560</a> <a href="data_menu.shtml?stn=8510560 Montauk, NY&type=Tide Data">Montauk, NY</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8516945 Kings Point, NY&type=Tide Data">8516945</a> <a href="data_menu.shtml?stn=8516945 Kings Point, NY&type=Tide Data">Kings Point, NY</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8518750 The Battery, NY&type=Tide Data">8518750</a> <a href="data_menu.shtml?stn=8518750 The Battery, NY&type=Tide Data">The Battery, NY</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8519483 Bergen Point West Reach, NY&type=Tide Data">8519483</a> <a href="data_menu.shtml?stn=8519483 Bergen Point West Reach, NY&type=Tide Data">Bergen Point West Reach, NY</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8531680 Sandy Hook, NJ&type=Tide Data">8531680</a> <a href="data_menu.shtml?stn=8531680 Sandy Hook, NJ&type=Tide Data">Sandy Hook, NJ</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8534720 Atlantic City, NJ&type=Tide Data">8534720</a> <a href="data_menu.shtml?stn=8534720 Atlantic City, NJ&type=Tide Data">Atlantic City, NJ</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8536110 Cape May, NJ&type=Tide Data">8536110</a> <a href="data_menu.shtml?stn=8536110 Cape May, NJ&type=Tide Data">Cape May, NJ</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8537121 Ship John Shoal, NJ&type=Tide Data">8537121</a> <a href="data_menu.shtml?stn=8537121 Ship John Shoal, NJ&type=Tide Data">Ship John Shoal, NJ</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8538886 Tacony-Palmyra Bridge, NJ&type=Tide Data">8538886</a> <a href="data_menu.shtml?stn=8538886 Tacony-Palmyra Bridge, NJ&type=Tide Data">Tacony-Palmyra Bridge, NJ</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8539094 Burlington, Delaware River, NJ&type=Tide Data">8539094</a> <a href="data_menu.shtml?stn=8539094 Burlington, Delaware River, NJ&type=Tide Data">Burlington, Delaware River, NJ</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8540433 Marcus Hook, PA&type=Tide Data">8540433</a> <a href="data_menu.shtml?stn=8540433 Marcus Hook, PA&type=Tide Data">Marcus Hook, PA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8545240 Philadelphia, PA&type=Tide Data">8545240</a> <a href="data_menu.shtml?stn=8545240 Philadelphia, PA&type=Tide Data">Philadelphia, PA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8548989 Newbold, PA&type=Tide Data">8548989</a> <a href="data_menu.shtml?stn=8548989 Newbold, PA&type=Tide Data">Newbold, PA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8551762 Delaware City, DE&type=Tide Data">8551762</a> <a href="data_menu.shtml?stn=8551762 Delaware City, DE&type=Tide Data">Delaware City, DE</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8551910 Reedy Point, DE&type=Tide Data">8551910</a> <a href="data_menu.shtml?stn=8551910 Reedy Point, DE&type=Tide Data">Reedy Point, DE</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8557380 Lewes, DE&type=Tide Data">8557380</a> <a href="data_menu.shtml?stn=8557380 Lewes, DE&type=Tide Data">Lewes, DE</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8570283 Ocean City Inlet, MD&type=Tide Data">8570283</a> <a href="data_menu.shtml?stn=8570283 Ocean City Inlet, MD&type=Tide Data">Ocean City Inlet, MD</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8571421 Bishops Head, MD&type=Tide Data">8571421</a> <a href="data_menu.shtml?stn=8571421 Bishops Head, MD&type=Tide Data">Bishops Head, MD</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8571892 Cambridge, MD&type=Tide Data">8571892</a> <a href="data_menu.shtml?stn=8571892 Cambridge, MD&type=Tide Data">Cambridge, MD</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8572271 Poplar Island, MD&type=Tide Data">8572271</a> <a href="data_menu.shtml?stn=8572271 Poplar Island, MD&type=Tide Data">Poplar Island, MD</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8573364 Tolchester Beach, MD&type=Tide Data">8573364</a> <a href="data_menu.shtml?stn=8573364 Tolchester Beach, MD&type=Tide Data">Tolchester Beach, MD</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8573927 Chesapeake City, MD&type=Tide Data">8573927</a> <a href="data_menu.shtml?stn=8573927 Chesapeake City, MD&type=Tide Data">Chesapeake City, MD</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8574680 Baltimore, MD&type=Tide Data">8574680</a> <a href="data_menu.shtml?stn=8574680 Baltimore, MD&type=Tide Data">Baltimore, MD</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8575512 Annapolis, MD&type=Tide Data">8575512</a> <a href="data_menu.shtml?stn=8575512 Annapolis, MD&type=Tide Data">Annapolis, MD</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8577330 Solomons Island, MD&type=Tide Data">8577330</a> <a href="data_menu.shtml?stn=8577330 Solomons Island, MD&type=Tide Data">Solomons Island, MD</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8594900 Washington, DC&type=Tide Data">8594900</a> <a href="data_menu.shtml?stn=8594900 Washington, DC&type=Tide Data">Washington, DC</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8631044 Wachapreague, VA&type=Tide Data">8631044</a> <a href="data_menu.shtml?stn=8631044 Wachapreague, VA&type=Tide Data">Wachapreague, VA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8632200 Kiptopeke, VA&type=Tide Data">8632200</a> <a href="data_menu.shtml?stn=8632200 Kiptopeke, VA&type=Tide Data">Kiptopeke, VA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8635750 Lewisetta, VA&type=Tide Data">8635750</a> <a href="data_menu.shtml?stn=8635750 Lewisetta, VA&type=Tide Data">Lewisetta, VA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8636580 Windmill Point, VA&type=Tide Data">8636580</a> <a href="data_menu.shtml?stn=8636580 Windmill Point, VA&type=Tide Data">Windmill Point, VA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8637689 Yorktown USCG Training Center, VA&type=Tide Data">8637689</a> <a href="data_menu.shtml?stn=8637689 Yorktown USCG Training Center, VA&type=Tide Data">Yorktown USCG Training Center, VA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8638610 Sewells Point, VA&type=Tide Data">8638610</a> <a href="data_menu.shtml?stn=8638610 Sewells Point, VA&type=Tide Data">Sewells Point, VA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8638863 Chesapeake Bay Bridge Tunnel, VA&type=Tide Data">8638863</a> <a href="data_menu.shtml?stn=8638863 Chesapeake Bay Bridge Tunnel, VA&type=Tide Data">Chesapeake Bay Bridge Tunnel, VA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8639348 Money Point, VA&type=Tide Data">8639348</a> <a href="data_menu.shtml?stn=8639348 Money Point, VA&type=Tide Data">Money Point, VA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8651370 Duck, NC&type=Tide Data">8651370</a> <a href="data_menu.shtml?stn=8651370 Duck, NC&type=Tide Data">Duck, NC</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8652587 Oregon Inlet Marina, NC&type=Tide Data">8652587</a> <a href="data_menu.shtml?stn=8652587 Oregon Inlet Marina, NC&type=Tide Data">Oregon Inlet Marina, NC</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8654467 USCG Station Hatteras, NC&type=Tide Data">8654467</a> <a href="data_menu.shtml?stn=8654467 USCG Station Hatteras, NC&type=Tide Data">USCG Station Hatteras, NC</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8656483 Beaufort, NC&type=Tide Data">8656483</a> <a href="data_menu.shtml?stn=8656483 Beaufort, NC&type=Tide Data">Beaufort, NC</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8658120 Wilmington, NC&type=Tide Data">8658120</a> <a href="data_menu.shtml?stn=8658120 Wilmington, NC&type=Tide Data">Wilmington, NC</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8658163 Wrightsville Beach, NC&type=Tide Data">8658163</a> <a href="data_menu.shtml?stn=8658163 Wrightsville Beach, NC&type=Tide Data">Wrightsville Beach, NC</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8661070 Springmaid Pier, SC&type=Tide Data">8661070</a> <a href="data_menu.shtml?stn=8661070 Springmaid Pier, SC&type=Tide Data">Springmaid Pier, SC</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8662245 Oyster Landing (N. Inlet Estuary), SC&type=Tide Data">8662245</a> <a href="data_menu.shtml?stn=8662245 Oyster Landing (N. Inlet Estuary), SC&type=Tide Data">Oyster Landing (N. Inlet Estuary), SC</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8665530 Charleston, SC&type=Tide Data">8665530</a> <a href="data_menu.shtml?stn=8665530 Charleston, SC&type=Tide Data">Charleston, SC</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8667633 Clarendon Plantation, SC&type=Tide Data">8667633</a> <a href="data_menu.shtml?stn=8667633 Clarendon Plantation, SC&type=Tide Data">Clarendon Plantation, SC</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8670870 Fort Pulaski, GA&type=Tide Data">8670870</a> <a href="data_menu.shtml?stn=8670870 Fort Pulaski, GA&type=Tide Data">Fort Pulaski, GA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8678322 Bailey Cut, Satilla River, GA&type=Tide Data">8678322</a> <a href="data_menu.shtml?stn=8678322 Bailey Cut, Satilla River, GA&type=Tide Data">Bailey Cut, Satilla River, GA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8720030 Fernandina Beach, FL&type=Tide Data">8720030</a> <a href="data_menu.shtml?stn=8720030 Fernandina Beach, FL&type=Tide Data">Fernandina Beach, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8720218 Mayport (Bar Pilots Dock), FL&type=Tide Data">8720218</a> <a href="data_menu.shtml?stn=8720218 Mayport (Bar Pilots Dock), FL&type=Tide Data">Mayport (Bar Pilots Dock), FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8720357 I-295 Bridge, St Johns River, FL&type=Tide Data">8720357</a> <a href="data_menu.shtml?stn=8720357 I-295 Bridge, St Johns River, FL&type=Tide Data">I-295 Bridge, St Johns River, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8721604 Trident Pier, FL&type=Tide Data">8721604</a> <a href="data_menu.shtml?stn=8721604 Trident Pier, FL&type=Tide Data">Trident Pier, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8722670 Lake Worth Pier, FL&type=Tide Data">8722670</a> <a href="data_menu.shtml?stn=8722670 Lake Worth Pier, FL&type=Tide Data">Lake Worth Pier, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8723214 Virginia Key, FL&type=Tide Data">8723214</a> <a href="data_menu.shtml?stn=8723214 Virginia Key, FL&type=Tide Data">Virginia Key, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8723970 Vaca Key, FL&type=Tide Data">8723970</a> <a href="data_menu.shtml?stn=8723970 Vaca Key, FL&type=Tide Data">Vaca Key, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8724580 Key West, FL&type=Tide Data">8724580</a> <a href="data_menu.shtml?stn=8724580 Key West, FL&type=Tide Data">Key West, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8725110 Naples, FL&type=Tide Data">8725110</a> <a href="data_menu.shtml?stn=8725110 Naples, FL&type=Tide Data">Naples, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8725520 Fort Myers, FL&type=Tide Data">8725520</a> <a href="data_menu.shtml?stn=8725520 Fort Myers, FL&type=Tide Data">Fort Myers, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8726384 Port Manatee, FL&type=Tide Data">8726384</a> <a href="data_menu.shtml?stn=8726384 Port Manatee, FL&type=Tide Data">Port Manatee, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8726520 St. Petersburg, FL&type=Tide Data">8726520</a> <a href="data_menu.shtml?stn=8726520 St. Petersburg, FL&type=Tide Data">St. Petersburg, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8726607 Old Port Tampa, FL&type=Tide Data">8726607</a> <a href="data_menu.shtml?stn=8726607 Old Port Tampa, FL&type=Tide Data">Old Port Tampa, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8726667 Mckay Bay Entrance, FL&type=Tide Data">8726667</a> <a href="data_menu.shtml?stn=8726667 Mckay Bay Entrance, FL&type=Tide Data">Mckay Bay Entrance, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8726724 Clearwater Beach, FL&type=Tide Data">8726724</a> <a href="data_menu.shtml?stn=8726724 Clearwater Beach, FL&type=Tide Data">Clearwater Beach, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8727520 Cedar Key, FL&type=Tide Data">8727520</a> <a href="data_menu.shtml?stn=8727520 Cedar Key, FL&type=Tide Data">Cedar Key, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8728690 Apalachicola, FL&type=Tide Data">8728690</a> <a href="data_menu.shtml?stn=8728690 Apalachicola, FL&type=Tide Data">Apalachicola, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8729108 Panama City, FL&type=Tide Data">8729108</a> <a href="data_menu.shtml?stn=8729108 Panama City, FL&type=Tide Data">Panama City, FL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8729840 Pensacola, FL&type=Tide Data">8729840</a> <a href="data_menu.shtml?stn=8729840 Pensacola, FL&type=Tide Data">Pensacola, FL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8732828 Weeks Bay, AL&type=Tide Data">8732828</a> <a href="data_menu.shtml?stn=8732828 Weeks Bay, AL&type=Tide Data">Weeks Bay, AL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8735180 Dauphin Island, AL&type=Tide Data">8735180</a> <a href="data_menu.shtml?stn=8735180 Dauphin Island, AL&type=Tide Data">Dauphin Island, AL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8735391 Dog River Bridge, AL&type=Tide Data">8735391</a> <a href="data_menu.shtml?stn=8735391 Dog River Bridge, AL&type=Tide Data">Dog River Bridge, AL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8735523 East Fowl River Bridge, AL&type=Tide Data">8735523</a> <a href="data_menu.shtml?stn=8735523 East Fowl River Bridge, AL&type=Tide Data">East Fowl River Bridge, AL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8736897 Coast Guard Sector Mobile, AL&type=Tide Data">8736897</a> <a href="data_menu.shtml?stn=8736897 Coast Guard Sector Mobile, AL&type=Tide Data">Coast Guard Sector Mobile, AL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8737048 Mobile State Docks, AL&type=Tide Data">8737048</a> <a href="data_menu.shtml?stn=8737048 Mobile State Docks, AL&type=Tide Data">Mobile State Docks, AL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8737138 Chickasaw Creek, AL&type=Tide Data">8737138</a> <a href="data_menu.shtml?stn=8737138 Chickasaw Creek, AL&type=Tide Data">Chickasaw Creek, AL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8738043 West Fowl River Bridge, AL&type=Tide Data">8738043</a> <a href="data_menu.shtml?stn=8738043 West Fowl River Bridge, AL&type=Tide Data">West Fowl River Bridge, AL</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8739803 Bayou La Batre Bridge, AL&type=Tide Data">8739803</a> <a href="data_menu.shtml?stn=8739803 Bayou La Batre Bridge, AL&type=Tide Data">Bayou La Batre Bridge, AL</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8740166 Grand Bay NERR, Mississippi Sound, MS&type=Tide Data">8740166</a> <a href="data_menu.shtml?stn=8740166 Grand Bay NERR, Mississippi Sound, MS&type=Tide Data">Grand Bay NERR, Mississippi Sound, MS</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8741041 Dock E, Port of Pascagoula, MS&type=Tide Data">8741041</a> <a href="data_menu.shtml?stn=8741041 Dock E, Port of Pascagoula, MS&type=Tide Data">Dock E, Port of Pascagoula, MS</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8741533 Pascagoula NOAA Lab, MS&type=Tide Data">8741533</a> <a href="data_menu.shtml?stn=8741533 Pascagoula NOAA Lab, MS&type=Tide Data">Pascagoula NOAA Lab, MS</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8747437 Bay Waveland Yacht Club, MS&type=Tide Data">8747437</a> <a href="data_menu.shtml?stn=8747437 Bay Waveland Yacht Club, MS&type=Tide Data">Bay Waveland Yacht Club, MS</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8760721 Pilottown, LA&type=Tide Data">8760721</a> <a href="data_menu.shtml?stn=8760721 Pilottown, LA&type=Tide Data">Pilottown, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8760922 Pilots Station East, SW Pass, LA&type=Tide Data">8760922</a> <a href="data_menu.shtml?stn=8760922 Pilots Station East, SW Pass, LA&type=Tide Data">Pilots Station East, SW Pass, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8761305 Shell Beach, LA&type=Tide Data">8761305</a> <a href="data_menu.shtml?stn=8761305 Shell Beach, LA&type=Tide Data">Shell Beach, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8761724 Grand Isle, LA&type=Tide Data">8761724</a> <a href="data_menu.shtml?stn=8761724 Grand Isle, LA&type=Tide Data">Grand Isle, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8761927 New Canal Station, LA&type=Tide Data">8761927</a> <a href="data_menu.shtml?stn=8761927 New Canal Station, LA&type=Tide Data">New Canal Station, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8761955 Carrollton, LA&type=Tide Data">8761955</a> <a href="data_menu.shtml?stn=8761955 Carrollton, LA&type=Tide Data">Carrollton, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8762075 Port Fourchon, LA&type=Tide Data">8762075</a> <a href="data_menu.shtml?stn=8762075 Port Fourchon, LA&type=Tide Data">Port Fourchon, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8762372 East Bank 1, Norco, B. LaBranche, LA&type=Tide Data">8762372</a> <a href="data_menu.shtml?stn=8762372 East Bank 1, Norco, B. LaBranche, LA&type=Tide Data">East Bank 1, Norco, B. LaBranche, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8762482 West Bank 1, Bayou Gauche, LA&type=Tide Data">8762482</a> <a href="data_menu.shtml?stn=8762482 West Bank 1, Bayou Gauche, LA&type=Tide Data">West Bank 1, Bayou Gauche, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8764044 Berwick, LA&type=Tide Data">8764044</a> <a href="data_menu.shtml?stn=8764044 Berwick, LA&type=Tide Data">Berwick, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8764227 LAWMA, Amerada Pass, LA&type=Tide Data">8764227</a> <a href="data_menu.shtml?stn=8764227 LAWMA, Amerada Pass, LA&type=Tide Data">LAWMA, Amerada Pass, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8766072 Freshwater Canal Locks, LA&type=Tide Data">8766072</a> <a href="data_menu.shtml?stn=8766072 Freshwater Canal Locks, LA&type=Tide Data">Freshwater Canal Locks, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8767816 Lake Charles, LA&type=Tide Data">8767816</a> <a href="data_menu.shtml?stn=8767816 Lake Charles, LA&type=Tide Data">Lake Charles, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8767961 Bulk Terminal, LA&type=Tide Data">8767961</a> <a href="data_menu.shtml?stn=8767961 Bulk Terminal, LA&type=Tide Data">Bulk Terminal, LA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8768094 Calcasieu Pass, LA&type=Tide Data">8768094</a> <a href="data_menu.shtml?stn=8768094 Calcasieu Pass, LA&type=Tide Data">Calcasieu Pass, LA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8770475 Port Arthur, TX&type=Tide Data">8770475</a> <a href="data_menu.shtml?stn=8770475 Port Arthur, TX&type=Tide Data">Port Arthur, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8770520 Rainbow Bridge, TX&type=Tide Data">8770520</a> <a href="data_menu.shtml?stn=8770520 Rainbow Bridge, TX&type=Tide Data">Rainbow Bridge, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8770570 Sabine Pass North, TX&type=Tide Data">8770570</a> <a href="data_menu.shtml?stn=8770570 Sabine Pass North, TX&type=Tide Data">Sabine Pass North, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8770613 Morgans Point, TX&type=Tide Data">8770613</a> <a href="data_menu.shtml?stn=8770613 Morgans Point, TX&type=Tide Data">Morgans Point, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8770733 Lynchburg Landing, TX&type=Tide Data">8770733</a> <a href="data_menu.shtml?stn=8770733 Lynchburg Landing, TX&type=Tide Data">Lynchburg Landing, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8770777 Manchester, TX&type=Tide Data">8770777</a> <a href="data_menu.shtml?stn=8770777 Manchester, TX&type=Tide Data">Manchester, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8770822 Texas Point, Sabine Pass, TX&type=Tide Data">8770822</a> <a href="data_menu.shtml?stn=8770822 Texas Point, Sabine Pass, TX&type=Tide Data">Texas Point, Sabine Pass, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8770971 Rollover Pass, TX&type=Tide Data">8770971</a> <a href="data_menu.shtml?stn=8770971 Rollover Pass, TX&type=Tide Data">Rollover Pass, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8771013 Eagle Point, TX&type=Tide Data">8771013</a> <a href="data_menu.shtml?stn=8771013 Eagle Point, TX&type=Tide Data">Eagle Point, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8771341 Galveston Bay Entrance, North Jetty, TX&type=Tide Data">8771341</a> <a href="data_menu.shtml?stn=8771341 Galveston Bay Entrance, North Jetty, TX&type=Tide Data">Galveston Bay Entrance, North Jetty, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8771450 Galveston Pier 21, TX&type=Tide Data">8771450</a> <a href="data_menu.shtml?stn=8771450 Galveston Pier 21, TX&type=Tide Data">Galveston Pier 21, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8771510 Galveston Pleasure Pier, TX&type=Tide Data">8771510</a> <a href="data_menu.shtml?stn=8771510 Galveston Pleasure Pier, TX&type=Tide Data">Galveston Pleasure Pier, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8771972 San Luis Pass, TX&type=Tide Data">8771972</a> <a href="data_menu.shtml?stn=8771972 San Luis Pass, TX&type=Tide Data">San Luis Pass, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8772447 USCG Freeport, TX&type=Tide Data">8772447</a> <a href="data_menu.shtml?stn=8772447 USCG Freeport, TX&type=Tide Data">USCG Freeport, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8773037 Seadrift, TX&type=Tide Data">8773037</a> <a href="data_menu.shtml?stn=8773037 Seadrift, TX&type=Tide Data">Seadrift, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8773259 Port Lavaca, TX&type=Tide Data">8773259</a> <a href="data_menu.shtml?stn=8773259 Port Lavaca, TX&type=Tide Data">Port Lavaca, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8773701 Port OConnor, TX&type=Tide Data">8773701</a> <a href="data_menu.shtml?stn=8773701 Port OConnor, TX&type=Tide Data">Port OConnor, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8774513 Copano Bay, TX&type=Tide Data">8774513</a> <a href="data_menu.shtml?stn=8774513 Copano Bay, TX&type=Tide Data">Copano Bay, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8774770 Rockport, TX&type=Tide Data">8774770</a> <a href="data_menu.shtml?stn=8774770 Rockport, TX&type=Tide Data">Rockport, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8775237 Port Aransas, TX&type=Tide Data">8775237</a> <a href="data_menu.shtml?stn=8775237 Port Aransas, TX&type=Tide Data">Port Aransas, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8775244 Nueces Bay, TX&type=Tide Data">8775244</a> <a href="data_menu.shtml?stn=8775244 Nueces Bay, TX&type=Tide Data">Nueces Bay, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8775283 Port Ingleside, Corpus Christi Bay, TX&type=Tide Data">8775283</a> <a href="data_menu.shtml?stn=8775283 Port Ingleside, Corpus Christi Bay, TX&type=Tide Data">Port Ingleside, Corpus Christi Bay, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8775296 Texas State Aquarium, TX&type=Tide Data">8775296</a> <a href="data_menu.shtml?stn=8775296 Texas State Aquarium, TX&type=Tide Data">Texas State Aquarium, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8775792 Packery Channel, TX&type=Tide Data">8775792</a> <a href="data_menu.shtml?stn=8775792 Packery Channel, TX&type=Tide Data">Packery Channel, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8775870 Corpus Christi, TX&type=Tide Data">8775870</a> <a href="data_menu.shtml?stn=8775870 Corpus Christi, TX&type=Tide Data">Corpus Christi, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8776139 S. Bird Island, TX&type=Tide Data">8776139</a> <a href="data_menu.shtml?stn=8776139 S. Bird Island, TX&type=Tide Data">S. Bird Island, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8776604 Baffin Bay, TX&type=Tide Data">8776604</a> <a href="data_menu.shtml?stn=8776604 Baffin Bay, TX&type=Tide Data">Baffin Bay, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8777812 Rincon Del San Jose, TX&type=Tide Data">8777812</a> <a href="data_menu.shtml?stn=8777812 Rincon Del San Jose, TX&type=Tide Data">Rincon Del San Jose, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8778490 Port Mansfield, TX&type=Tide Data">8778490</a> <a href="data_menu.shtml?stn=8778490 Port Mansfield, TX&type=Tide Data">Port Mansfield, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8779280 Realitos Peninsula, TX&type=Tide Data">8779280</a> <a href="data_menu.shtml?stn=8779280 Realitos Peninsula, TX&type=Tide Data">Realitos Peninsula, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=8779748 South Padre Island Coast Guard Station, TX&type=Tide Data">8779748</a> <a href="data_menu.shtml?stn=8779748 South Padre Island Coast Guard Station, TX&type=Tide Data">South Padre Island Coast Guard Station, TX</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=8779770 Port Isabel, TX&type=Tide Data">8779770</a> <a href="data_menu.shtml?stn=8779770 Port Isabel, TX&type=Tide Data">Port Isabel, TX</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9410170 San Diego, CA&type=Tide Data">9410170</a> <a href="data_menu.shtml?stn=9410170 San Diego, CA&type=Tide Data">San Diego, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9410230 La Jolla, CA&type=Tide Data">9410230</a> <a href="data_menu.shtml?stn=9410230 La Jolla, CA&type=Tide Data">La Jolla, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9410660 Los Angeles, CA&type=Tide Data">9410660</a> <a href="data_menu.shtml?stn=9410660 Los Angeles, CA&type=Tide Data">Los Angeles, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9410840 Santa Monica, CA&type=Tide Data">9410840</a> <a href="data_menu.shtml?stn=9410840 Santa Monica, CA&type=Tide Data">Santa Monica, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9411340 Santa Barbara, CA&type=Tide Data">9411340</a> <a href="data_menu.shtml?stn=9411340 Santa Barbara, CA&type=Tide Data">Santa Barbara, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9411399 Gaviota State Park, CA&type=Tide Data">9411399</a> <a href="data_menu.shtml?stn=9411399 Gaviota State Park, CA&type=Tide Data">Gaviota State Park, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9411406 Oil Platform Harvest, CA&type=Tide Data">9411406</a> <a href="data_menu.shtml?stn=9411406 Oil Platform Harvest, CA&type=Tide Data">Oil Platform Harvest, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9412110 Port San Luis, CA&type=Tide Data">9412110</a> <a href="data_menu.shtml?stn=9412110 Port San Luis, CA&type=Tide Data">Port San Luis, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9412802 Mansfield Cone, CA&type=Tide Data">9412802</a> <a href="data_menu.shtml?stn=9412802 Mansfield Cone, CA&type=Tide Data">Mansfield Cone, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9413450 Monterey, CA&type=Tide Data">9413450</a> <a href="data_menu.shtml?stn=9413450 Monterey, CA&type=Tide Data">Monterey, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9414290 San Francisco, CA&type=Tide Data">9414290</a> <a href="data_menu.shtml?stn=9414290 San Francisco, CA&type=Tide Data">San Francisco, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9414523 Redwood City, CA&type=Tide Data">9414523</a> <a href="data_menu.shtml?stn=9414523 Redwood City, CA&type=Tide Data">Redwood City, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9414575 Coyote Creek, CA&type=Tide Data">9414575</a> <a href="data_menu.shtml?stn=9414575 Coyote Creek, CA&type=Tide Data">Coyote Creek, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9414750 Alameda, CA&type=Tide Data">9414750</a> <a href="data_menu.shtml?stn=9414750 Alameda, CA&type=Tide Data">Alameda, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9414863 Richmond, CA&type=Tide Data">9414863</a> <a href="data_menu.shtml?stn=9414863 Richmond, CA&type=Tide Data">Richmond, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9414958 Bolinas, Bolinas Lagoon, CA&type=Tide Data">9414958</a> <a href="data_menu.shtml?stn=9414958 Bolinas, Bolinas Lagoon, CA&type=Tide Data">Bolinas, Bolinas Lagoon, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9415020 Point Reyes, CA&type=Tide Data">9415020</a> <a href="data_menu.shtml?stn=9415020 Point Reyes, CA&type=Tide Data">Point Reyes, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9415056 Point Pinole, CA&type=Tide Data">9415056</a> <a href="data_menu.shtml?stn=9415056 Point Pinole, CA&type=Tide Data">Point Pinole, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9415144 Port Chicago, CA&type=Tide Data">9415144</a> <a href="data_menu.shtml?stn=9415144 Port Chicago, CA&type=Tide Data">Port Chicago, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9415338 Sonoma Creek Entrance, CA&type=Tide Data">9415338</a> <a href="data_menu.shtml?stn=9415338 Sonoma Creek Entrance, CA&type=Tide Data">Sonoma Creek Entrance, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9416409 Green Cove, CA&type=Tide Data">9416409</a> <a href="data_menu.shtml?stn=9416409 Green Cove, CA&type=Tide Data">Green Cove, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9416841 Arena Cove, CA&type=Tide Data">9416841</a> <a href="data_menu.shtml?stn=9416841 Arena Cove, CA&type=Tide Data">Arena Cove, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9418767 North Spit, Humboldt Bay, CA&type=Tide Data">9418767</a> <a href="data_menu.shtml?stn=9418767 North Spit, Humboldt Bay, CA&type=Tide Data">North Spit, Humboldt Bay, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9419750 Crescent City, CA&type=Tide Data">9419750</a> <a href="data_menu.shtml?stn=9419750 Crescent City, CA&type=Tide Data">Crescent City, CA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9419945 Pyramid Point, CA&type=Tide Data">9419945</a> <a href="data_menu.shtml?stn=9419945 Pyramid Point, CA&type=Tide Data">Pyramid Point, CA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9431647 Port Orford, OR&type=Tide Data">9431647</a> <a href="data_menu.shtml?stn=9431647 Port Orford, OR&type=Tide Data">Port Orford, OR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9432780 Charleston, OR&type=Tide Data">9432780</a> <a href="data_menu.shtml?stn=9432780 Charleston, OR&type=Tide Data">Charleston, OR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9435380 South Beach, Yaquina River, OR&type=Tide Data">9435380</a> <a href="data_menu.shtml?stn=9435380 South Beach, Yaquina River, OR&type=Tide Data">South Beach, Yaquina River, OR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9437540 Garibaldi, OR&type=Tide Data">9437540</a> <a href="data_menu.shtml?stn=9437540 Garibaldi, OR&type=Tide Data">Garibaldi, OR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9439011 Hammond, OR&type=Tide Data">9439011</a> <a href="data_menu.shtml?stn=9439011 Hammond, OR&type=Tide Data">Hammond, OR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9439040 Astoria, OR&type=Tide Data">9439040</a> <a href="data_menu.shtml?stn=9439040 Astoria, OR&type=Tide Data">Astoria, OR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9439099 Wauna, OR&type=Tide Data">9439099</a> <a href="data_menu.shtml?stn=9439099 Wauna, OR&type=Tide Data">Wauna, OR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9439201 Saint Helens, OR&type=Tide Data">9439201</a> <a href="data_menu.shtml?stn=9439201 Saint Helens, OR&type=Tide Data">Saint Helens, OR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9440083 Vancouver, WA&type=Tide Data">9440083</a> <a href="data_menu.shtml?stn=9440083 Vancouver, WA&type=Tide Data">Vancouver, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9440422 Longview, WA&type=Tide Data">9440422</a> <a href="data_menu.shtml?stn=9440422 Longview, WA&type=Tide Data">Longview, WA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9440569 Skamokawa, WA&type=Tide Data">9440569</a> <a href="data_menu.shtml?stn=9440569 Skamokawa, WA&type=Tide Data">Skamokawa, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9440910 Toke Point, WA&type=Tide Data">9440910</a> <a href="data_menu.shtml?stn=9440910 Toke Point, WA&type=Tide Data">Toke Point, WA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9441102 Westport, WA&type=Tide Data">9441102</a> <a href="data_menu.shtml?stn=9441102 Westport, WA&type=Tide Data">Westport, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9442396 La Push, WA&type=Tide Data">9442396</a> <a href="data_menu.shtml?stn=9442396 La Push, WA&type=Tide Data">La Push, WA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9443090 Neah Bay, WA&type=Tide Data">9443090</a> <a href="data_menu.shtml?stn=9443090 Neah Bay, WA&type=Tide Data">Neah Bay, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9444090 Port Angeles, WA&type=Tide Data">9444090</a> <a href="data_menu.shtml?stn=9444090 Port Angeles, WA&type=Tide Data">Port Angeles, WA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9444900 Port Townsend, WA&type=Tide Data">9444900</a> <a href="data_menu.shtml?stn=9444900 Port Townsend, WA&type=Tide Data">Port Townsend, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9446484 Tacoma, WA&type=Tide Data">9446484</a> <a href="data_menu.shtml?stn=9446484 Tacoma, WA&type=Tide Data">Tacoma, WA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9447130 Seattle, Puget Sound, WA&type=Tide Data">9447130</a> <a href="data_menu.shtml?stn=9447130 Seattle, Puget Sound, WA&type=Tide Data">Seattle, Puget Sound, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9449424 Cherry Point, WA&type=Tide Data">9449424</a> <a href="data_menu.shtml?stn=9449424 Cherry Point, WA&type=Tide Data">Cherry Point, WA</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9449880 Friday Harbor, WA&type=Tide Data">9449880</a> <a href="data_menu.shtml?stn=9449880 Friday Harbor, WA&type=Tide Data">Friday Harbor, WA</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9450460 Ketchikan, AK&type=Tide Data">9450460</a> <a href="data_menu.shtml?stn=9450460 Ketchikan, AK&type=Tide Data">Ketchikan, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9451054 Port Alexander, AK&type=Tide Data">9451054</a> <a href="data_menu.shtml?stn=9451054 Port Alexander, AK&type=Tide Data">Port Alexander, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9451600 Sitka, AK&type=Tide Data">9451600</a> <a href="data_menu.shtml?stn=9451600 Sitka, AK&type=Tide Data">Sitka, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9452210 Juneau, AK&type=Tide Data">9452210</a> <a href="data_menu.shtml?stn=9452210 Juneau, AK&type=Tide Data">Juneau, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9452400 Skagway, AK&type=Tide Data">9452400</a> <a href="data_menu.shtml?stn=9452400 Skagway, AK&type=Tide Data">Skagway, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9452634 Elfin Cove, AK&type=Tide Data">9452634</a> <a href="data_menu.shtml?stn=9452634 Elfin Cove, AK&type=Tide Data">Elfin Cove, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9453220 Yakutat, Yakutat Bay, AK&type=Tide Data">9453220</a> <a href="data_menu.shtml?stn=9453220 Yakutat, Yakutat Bay, AK&type=Tide Data">Yakutat, Yakutat Bay, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9454050 Cordova, AK&type=Tide Data">9454050</a> <a href="data_menu.shtml?stn=9454050 Cordova, AK&type=Tide Data">Cordova, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9454240 Valdez, AK&type=Tide Data">9454240</a> <a href="data_menu.shtml?stn=9454240 Valdez, AK&type=Tide Data">Valdez, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9455090 Seward, AK&type=Tide Data">9455090</a> <a href="data_menu.shtml?stn=9455090 Seward, AK&type=Tide Data">Seward, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9455500 Seldovia, AK&type=Tide Data">9455500</a> <a href="data_menu.shtml?stn=9455500 Seldovia, AK&type=Tide Data">Seldovia, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9455760 Nikiski, AK&type=Tide Data">9455760</a> <a href="data_menu.shtml?stn=9455760 Nikiski, AK&type=Tide Data">Nikiski, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9455920 Anchorage, AK&type=Tide Data">9455920</a> <a href="data_menu.shtml?stn=9455920 Anchorage, AK&type=Tide Data">Anchorage, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9457292 Kodiak Island, AK&type=Tide Data">9457292</a> <a href="data_menu.shtml?stn=9457292 Kodiak Island, AK&type=Tide Data">Kodiak Island, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9457393 Kizhuyak Bay, AK&type=Tide Data">9457393</a> <a href="data_menu.shtml?stn=9457393 Kizhuyak Bay, AK&type=Tide Data">Kizhuyak Bay, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9457407 Nachalni Island, AK&type=Tide Data">9457407</a> <a href="data_menu.shtml?stn=9457407 Nachalni Island, AK&type=Tide Data">Nachalni Island, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9457804 Alitak, AK&type=Tide Data">9457804</a> <a href="data_menu.shtml?stn=9457804 Alitak, AK&type=Tide Data">Alitak, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9459450 Sand Point, AK&type=Tide Data">9459450</a> <a href="data_menu.shtml?stn=9459450 Sand Point, AK&type=Tide Data">Sand Point, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9459881 King Cove, AK&type=Tide Data">9459881</a> <a href="data_menu.shtml?stn=9459881 King Cove, AK&type=Tide Data">King Cove, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9461380 Adak Island, AK&type=Tide Data">9461380</a> <a href="data_menu.shtml?stn=9461380 Adak Island, AK&type=Tide Data">Adak Island, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9461710 Atka, AK&type=Tide Data">9461710</a> <a href="data_menu.shtml?stn=9461710 Atka, AK&type=Tide Data">Atka, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9462450 Nikolski, AK&type=Tide Data">9462450</a> <a href="data_menu.shtml?stn=9462450 Nikolski, AK&type=Tide Data">Nikolski, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9462620 Unalaska, AK&type=Tide Data">9462620</a> <a href="data_menu.shtml?stn=9462620 Unalaska, AK&type=Tide Data">Unalaska, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9463502 Port Moller, AK&type=Tide Data">9463502</a> <a href="data_menu.shtml?stn=9463502 Port Moller, AK&type=Tide Data">Port Moller, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9464212 Village Cove, St. Paul Island, AK&type=Tide Data">9464212</a> <a href="data_menu.shtml?stn=9464212 Village Cove, St. Paul Island, AK&type=Tide Data">Village Cove, St. Paul Island, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9468756 Nome, Norton Sound, AK&type=Tide Data">9468756</a> <a href="data_menu.shtml?stn=9468756 Nome, Norton Sound, AK&type=Tide Data">Nome, Norton Sound, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9491094 Red Dog Dock, AK&type=Tide Data">9491094</a> <a href="data_menu.shtml?stn=9491094 Red Dog Dock, AK&type=Tide Data">Red Dog Dock, AK</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9497645 Prudhoe Bay, AK&type=Tide Data">9497645</a> <a href="data_menu.shtml?stn=9497645 Prudhoe Bay, AK&type=Tide Data">Prudhoe Bay, AK</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9751364 Christiansted Harbor, St Croix, VI&type=Tide Data">9751364</a> <a href="data_menu.shtml?stn=9751364 Christiansted Harbor, St Croix, VI&type=Tide Data">Christiansted Harbor, St Croix, VI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9751381 Lameshur Bay, St. John, VI&type=Tide Data">9751381</a> <a href="data_menu.shtml?stn=9751381 Lameshur Bay, St. John, VI&type=Tide Data">Lameshur Bay, St. John, VI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9751401 Lime Tree Bay, VI&type=Tide Data">9751401</a> <a href="data_menu.shtml?stn=9751401 Lime Tree Bay, VI&type=Tide Data">Lime Tree Bay, VI</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9751639 Charlotte Amalie, VI&type=Tide Data">9751639</a> <a href="data_menu.shtml?stn=9751639 Charlotte Amalie, VI&type=Tide Data">Charlotte Amalie, VI</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9752235 Culebra, PR&type=Tide Data">9752235</a> <a href="data_menu.shtml?stn=9752235 Culebra, PR&type=Tide Data">Culebra, PR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9752619 Isabel Segunda, Vieques Island, PR&type=Tide Data">9752619</a> <a href="data_menu.shtml?stn=9752619 Isabel Segunda, Vieques Island, PR&type=Tide Data">Isabel Segunda, Vieques Island, PR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9752695 Esperanza, Vieques Island, PR&type=Tide Data">9752695</a> <a href="data_menu.shtml?stn=9752695 Esperanza, Vieques Island, PR&type=Tide Data">Esperanza, Vieques Island, PR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9753216 Fajardo, PR&type=Tide Data">9753216</a> <a href="data_menu.shtml?stn=9753216 Fajardo, PR&type=Tide Data">Fajardo, PR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9754228 Yabucoa Harbor, PR&type=Tide Data">9754228</a> <a href="data_menu.shtml?stn=9754228 Yabucoa Harbor, PR&type=Tide Data">Yabucoa Harbor, PR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9755371 San Juan, PR&type=Tide Data">9755371</a> <a href="data_menu.shtml?stn=9755371 San Juan, PR&type=Tide Data">San Juan, PR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9757809 Arecibo, PR&type=Tide Data">9757809</a> <a href="data_menu.shtml?stn=9757809 Arecibo, PR&type=Tide Data">Arecibo, PR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9758053 Penuelas (Punta Guayanilla), PR&type=Tide Data">9758053</a> <a href="data_menu.shtml?stn=9758053 Penuelas (Punta Guayanilla), PR&type=Tide Data">Penuelas (Punta Guayanilla), PR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9759110 Magueyes Island, PR&type=Tide Data">9759110</a> <a href="data_menu.shtml?stn=9759110 Magueyes Island, PR&type=Tide Data">Magueyes Island, PR</a></td>
+        </tr><tr>
+           <td><a href="data_menu.shtml?stn=9759394 Mayaguez, PR&type=Tide Data">9759394</a> <a href="data_menu.shtml?stn=9759394 Mayaguez, PR&type=Tide Data">Mayaguez, PR</a></td>
+           <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+           <td><a href="data_menu.shtml?stn=9759412 Aguadilla, PR&type=Tide Data">9759412</a> <a href="data_menu.shtml?stn=9759412 Aguadilla, PR&type=Tide Data">Aguadilla, PR</a></td>
+        </tr><tr>
+

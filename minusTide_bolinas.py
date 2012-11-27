@@ -16,28 +16,11 @@ import sys, string, datetime
 import os
 from xml.etree import ElementTree as ET
 
-quotes = [
-    '"Sponges grow in the ocean. That just kills me. I wonder how much deeper the ocean would be if that didn\'t happen." ~ Steven Wright',
-    '"There\'s a fine line between fishing and just standing on the shore like an idiot." ~ Steven Wright',
-    '"If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen?" ~ Steven Wright',
-    '"I have the world\'s largest collection of seashells. I keep it on all the beaches of the world... perhaps you\'ve seen it." ~ Steven Wright',
-    '"Right now I\'m having amnesia and deja-vue at the same time." ~ Steven Wright',
-    '"I invented the cordless extension cord." ~ Steven Wright',
-    '"I\'m writing an unauthorized autobiography." ~ Steven Wright',
-    '"You know how it feels when you\'re leaning back on a chair, and you lean too far back, and you almost fall over backwards, but then you catch yourself at the last second? I feel like that all the time..." ~ Steven Wright',
-    '"I bought some batteries, but they weren\'t included." ~ Steven Wright',
-    '"Plan to be spontaneous tomorrow." ~ Steven Wright',
-    '"I filled out an application that said, "In Case Of Emergency Notify". I wrote "Doctor"... What\'s my mother going to do?" ~ Steven Wright',
-    '"What\'s another word for Thesaurus?" ~ Steven Wright',
-    '"When I was a kid, we had a quicksand box in the backyard. I was an only child . . . eventually." ~ Steven Wright',
-    '"I put instant coffee in a microwave and almost went back in time." ~ Steven Wright',
-    '"I bought a house on a one-way dead-end road. I don\'t know how I got there." ~ Steven Wright',
-    '"I just got skylights put in my place. The people who live above me are furious." ~ Steven Wright',
-    '"Last year for Christmas, I got a humidifier and a dehumidifier... I thought I\'d put them in the same room and let them fight it out." ~ Steven Wright',
-    '"If you were going to shoot a mime, would you use a silencer?" ~ Steven Wright',
-    '"I was in the first submarine. Instead of a periscope, they had a kaleidoscope. "We\'re surrounded."" ~ Steven Wright',
-    '"If toast always lands butter-side down, and cats always land on their feet, what happen if you strap toast on the back of a cat and drop it?" ~ Steven Wright',
-    ]
+f = open('quotes.txt')
+quotes = f.readlines()
+f.close()
+
+#quotes = []
 
 def main():
 	
@@ -48,8 +31,8 @@ def main():
 		stationName = key
 		stationID = value
 		
-		xmlFile = '/home/yosemit1/minustide_scripts/' + stationName + '.xml'
-	
+		#xmlFile = '/home/yosemit1/minustide_scripts/' + stationName + '.xml'
+		xmlFile = '/Users/jorma/Code/minustide_python/' + stationName + '.xml'
 		# --- run main check
 		tideCheck(xmlFile,stationName)
 	
@@ -170,8 +153,8 @@ def tideCheck(xmlFile,station):
 				print tideHeight + " " + tideDay + ", " + tideDate + " at " + tideTime
 				if formattedTideDate == tomorrow:
 					
-					emailFolks = {'Jorma': 'aloha@jorma.com','Karina Salenger':'karina.salenger@gmail.com'};
-					#emailFolks = {'Jorma': 'aloha@jorma.com'};
+					#emailFolks = {'Jorma': 'aloha@jorma.com','Karina Salenger':'karina.salenger@gmail.com'};
+					emailFolks = {'Jorma': 'aloha@jorma.com'};
 
 					# loop through each subscriber
 					for key, value in emailFolks.items():
