@@ -16,48 +16,43 @@ import sys, string, datetime
 import os
 from xml.etree import ElementTree as ET
 
-#Grab quotes file as an array
-f = open('quotes.txt')
-quotes = f.readlines()
-f.close()
-
-tideHeightStringArray = []
-lowestTideHeight = 0.0
+quotes = [
+    '"Sponges grow in the ocean. That just kills me. I wonder how much deeper the ocean would be if that didn\'t happen." ~ Steven Wright',
+    '"There\'s a fine line between fishing and just standing on the shore like an idiot." ~ Steven Wright',
+    '"If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen?" ~ Steven Wright',
+    '"I have the world\'s largest collection of seashells. I keep it on all the beaches of the world... perhaps you\'ve seen it." ~ Steven Wright',
+    '"Right now I\'m having amnesia and deja-vue at the same time." ~ Steven Wright',
+    '"I invented the cordless extension cord." ~ Steven Wright',
+    '"I\'m writing an unauthorized autobiography." ~ Steven Wright',
+    '"You know how it feels when you\'re leaning back on a chair, and you lean too far back, and you almost fall over backwards, but then you catch yourself at the last second? I feel like that all the time..." ~ Steven Wright',
+    '"I bought some batteries, but they weren\'t included." ~ Steven Wright',
+    '"Plan to be spontaneous tomorrow." ~ Steven Wright',
+    '"I filled out an application that said, "In Case Of Emergency Notify". I wrote "Doctor"... What\'s my mother going to do?" ~ Steven Wright',
+    '"What\'s another word for Thesaurus?" ~ Steven Wright',
+    '"When I was a kid, we had a quicksand box in the backyard. I was an only child . . . eventually." ~ Steven Wright',
+    '"I put instant coffee in a microwave and almost went back in time." ~ Steven Wright',
+    '"I bought a house on a one-way dead-end road. I don\'t know how I got there." ~ Steven Wright',
+    '"I just got skylights put in my place. The people who live above me are furious." ~ Steven Wright',
+    '"Last year for Christmas, I got a humidifier and a dehumidifier... I thought I\'d put them in the same room and let them fight it out." ~ Steven Wright',
+    '"If you were going to shoot a mime, would you use a silencer?" ~ Steven Wright',
+    '"I was in the first submarine. Instead of a periscope, they had a kaleidoscope. "We\'re surrounded."" ~ Steven Wright',
+    '"If toast always lands butter-side down, and cats always land on their feet, what happen if you strap toast on the back of a cat and drop it?" ~ Steven Wright',
+    ]
 
 def main():
 	
-	stationDict = {'Bolinas':'9414958'};
-	
-	
-	#create a print option for testing
-	#humanTideHeightLow = str(min(tideHeightFloatArray))
-	#print "The lowest tide of 2012 is a " + humanTideHeightLow
-	
+	stationDict = {'Lahina': 'TPT2799', 'Kahului': '1615680', 'Makena': '1615202', 'Kihei':'TPT2797'};
 	
 	for key, value in stationDict.items():
 	
 		stationName = key
 		stationID = value
 		
-		#check to see if lowest
-		# Create function here to check to see if lowest...
-		
-		
-		#xmlFile = '/home/yosemit1/minustide_scripts/' + stationName + '.xml'
 		xmlFile = '/Users/jorma/Code/minustide_python/' + stationName + '.xml'
-		
+	
 		# --- run main check
 		tideCheck(xmlFile,stationName)
-		
-	
-	
-	# testing finding the lowest tide
-	#print tideHeightStringArray
-	print nowMonth
-	print "============ End Main ================="
-	# turn list from strings into floats
-	tideHeightFloatArray = [float(i) for i in tideHeightStringArray]
-	
+
 
 # function to download xml file if it does not exist
 def getXmlFile(stationID,stationName):
@@ -84,11 +79,9 @@ def tideCheck(xmlFile,station):
 	# --- loop thru each record
 	print "=== " + station + " Minus Tides in 2012 ==="
 	print "(Tomorrow is " + tomorrow + ")"
-	print "=== "	
+	print "=== "
 	
 	for subelement in root:
-
-			lowestTideHeight = 1.0
 			tideHeight = subelement.find("predictions_in_ft").text
 			tideDate = subelement.find("date").text # ex. 2012/01/20
 			tideDay = subelement.find("day").text
@@ -98,25 +91,7 @@ def tideCheck(xmlFile,station):
 			year = str(tideDateArray[0])
 			day = str(tideDateArray[2])
 			month = str(tideDateArray[1])
-			
-			# testing... creating array of 2012 tide heights
-			tideHeightStringArray.append(tideHeight)			
-			
-			tideHeightFloat = float(tideHeight)
-			
-			if tideHeightFloat < lowestTideHeight:
-				lowestTideHeight = tideHeightFloat
-				print "The lowest tide is now " + str(lowestTideHeight)
-			else:
-				pass
-				
-			
-			# testing... 
-			#if float(tideHeight) < lowestTideHeight
-			#	print "Scooby Doobie Do"
-			#else:
-			#	pass
-			
+
 			
 			# ------ Convert tideDay to one digit if it has a zero in front -----
 			if day == "01":
@@ -175,6 +150,7 @@ def tideCheck(xmlFile,station):
 			tideHour = int(tideHourList[0])
 			
 			# ---- Turn hour into 24
+			
 			if ((tide12hrClock[0] == "PM") and (tideHour == 12)):
 				tideHour = 12
 				
@@ -183,7 +159,6 @@ def tideCheck(xmlFile,station):
 				
 			elif (tide12hrClock[0] == "PM"):
 				tideHour = tideHour + 12
-				
 
 			# --- find all tides that are lower than -.2 and between 5am and 7pm
 			# --------------- change tide height argument
@@ -193,29 +168,28 @@ def tideCheck(xmlFile,station):
 			#print "Compare tideDate vs tomorrow: " + formattedTideDate + " " + tomorrow
 			if (float(tideHeight) < 0) & (5 < tideHour < 19):
 				print tideHeight + " " + tideDay + ", " + tideDate + " at " + tideTime
-				
-				
 				if formattedTideDate == tomorrow:
 					
-					emailFolks = {'Jorma': 'aloha@jorma.com'};
+					#emailFolks = {'Jorma':'aloha@jorma.com','Jeff Fahey':'faheyjeffrey@gmail.com','Jim Dudla':'jdudla@iuetech.com','Joe Breman':'jbreman@iuetech.com','Meghan Gould':'mauka@meghangould.com','Bryan Berkowitz':'bryan.berkowitz@gmail.com','Mitch Sanders':'kukuyampira@hotmail.com'};
+					#emailFolks = {'jorma': 'aloha@jorma.com','jorma rodieck': 'jorma@iuetech.com','Gmail Jorma': 'jormadotcom@gmail.com'};
+					#emailFolks = {'Jorma': 'aloha@jorma.com'};
 
 					# loop through each subscriber
 					for key, value in emailFolks.items():
+						
 						print "********Send Email*********"
-						#msg = MIMEText('Aloha -\n\n'  + 'There will be a ' + tideHeight + 'ft minus tide on ' + human_tideDate + " at " + tideTime + " in " + station +  "\n\n -Jorma" + "\n\n----\n\n" + random.choice(quotes)) 
-						#msg['To'] = email.utils.formataddr((key, value))
-						#msg['From'] = email.utils.formataddr(('Jorma', 'jorma@minustide.net'))
-						#msg['Subject'] = 'Minus Tide Alert for tomorrow in ' + station + ": " + tideHeight
+						msg = MIMEText('Aloha -\n\n'  + 'There will be a ' + tideHeight + 'ft minus tide on ' + human_tideDate + " at " + tideTime + " in " + station +  "\n\n -Jorma" + "\n\n----\n\n" + random.choice(quotes)) 
+						msg['To'] = email.utils.formataddr((key, value))
+						msg['From'] = email.utils.formataddr(('Jorma', 'jorma@minustide.net'))
+						msg['Subject'] = 'Minus Tide Alert for tomorrow in ' + station + ": " + tideHeight
 
-						#conn = smtplib.SMTP('mail.minustide.net')
-						#conn.login('jorma@minustide.net', 'l0wtid3')
-						#conn.sendmail(msg['From'], msg['To'], msg.as_string())
-						#conn.quit()
+						conn = smtplib.SMTP('mail.minustide.net')
+						conn.login('jorma@minustide.net', 'l0wtid3')
+						conn.sendmail(msg['From'], msg['To'], msg.as_string())
+						conn.quit()
 					return
-					
 
 	print " "
-	
 	return
 
 if __name__ == '__main__':
