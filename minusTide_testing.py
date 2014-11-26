@@ -208,7 +208,7 @@ def tideCheck(xmlFile,station):
 						#msg['Subject'] = 'Minus Tide Alert for tomorrow in ' + station + ": " + tideHeight
 
 						#conn = smtplib.SMTP('mail.minustide.net')
-						#conn.login('jorma@minustide.net', 'l0wtid3')
+						#conn.login('jorma@minustide.net', 'xxxxxxx')
 						#conn.sendmail(msg['From'], msg['To'], msg.as_string())
 						#conn.quit()
 					return
